@@ -7,4 +7,4 @@ Here are my Operating Systems (CS307) programming assignments. <br>
 - In the third assignment, implemented a concurrent rideshare simulation. As synchronization primitives, used semaphores. <br>
 - In the fourth assignment, implemented a heap management application. It simulates how a heap gives spaces to different processes when they request space and how a memory space gets freed. <br>
 
-Note: I got a perfect score on all of the assignments.
+Note: I got perfect scores on all of the assignments.
